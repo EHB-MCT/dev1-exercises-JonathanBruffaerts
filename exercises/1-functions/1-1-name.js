@@ -11,7 +11,7 @@ function drawname() {
 
     //J
     context.beginPath();
-    context.strokeStyle = "black";
+    context.strokeStyle = "blue";
     context.lineWidth = 5;
     context.beginPath();
     context.moveTo(200, 50);
@@ -23,7 +23,7 @@ function drawname() {
 
 //O
 context.beginPath();
-context.strokeStyle = "black";
+context.strokeStyle = "red";
 context.lineWidth = 5;
 context.moveTo(250, 50);
 context.lineTo(250, 275);
